@@ -1,7 +1,7 @@
 <h2> Hi, I'm Karim Ebrahem!</h2>
 <img align='right' src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif" width="230">
-<p><em>iOS Software Enginner at <a href="https://www.areebgroup.com/">AreebGroup </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>iOS Software Engineer Mentor at <a href="https://www.facebook.com/SwiftyCamp/">SwiftyCamp</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>iOS Software Enginner at <a href="https://www.areebgroup.com/">AreebGroup </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>iOS Software Engineer Mentor at <a href="https://www.facebook.com/SwiftyCamp/">SwiftyCamp</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</p>
 
 [![Twitter: k_ebrahem_](https://img.shields.io/twitter/follow/k_ebrahem_?style=social)](https://twitter.com/k_ebrahem_)
 [![Linkedin: KarimEbrahem](https://img.shields.io/badge/-karimebrahem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karimebrahem/)](https://www.linkedin.com/in/karimebrahem/)
