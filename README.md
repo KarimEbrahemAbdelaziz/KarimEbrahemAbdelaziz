@@ -13,7 +13,7 @@
 ```javascript
 const thai = {
   pronouns: "hi" | "his",
-  code: [Swift, Objective-C, Kotlin, Ruby, Java],
+  code: [Swift, ObjectiveC, Kotlin, Ruby, Java],
   tools: [XCode, AppCode, Playground, IntellijIDEA, GitKraken, Postman, Docker],
   techCommunities: {
     founder: "SwiftyCamp",
@@ -23,6 +23,6 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
 ⭐️ Thank you ⭐️
