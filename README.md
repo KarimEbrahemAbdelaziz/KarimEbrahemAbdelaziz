@@ -1,5 +1,5 @@
 <h2> Hi, I'm Karim Ebrahem!</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif" width="230">
 <p><em>iOS Software Enginner at <a href="https://www.areebgroup.com/">AreebGroup </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>iOS Software Engineer Mentor at <a href="https://www.facebook.com/SwiftyCamp/">SwiftyCamp</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -14,15 +14,15 @@
 const thai = {
   pronouns: "hi" | "his",
   code: [Swift, Objective-C, Kotlin, Ruby, Java],
-  tools: [XCode, AppCode, Playground, Intellij IDEA, GitKraken, Postman, Docker],
+  tools: [XCode, AppCode, Playground, IntellijIDEA, GitKraken, Postman, Docker],
   techCommunities: {
-    organizer: "SwiftyCamp",
-    speaker: "SwiftCairo",
-    mentor: "SwiftyCamp"
+    founder: "SwiftyCamp",
+    mentor: "SwiftyCamp",
+    speaker: "SwiftCairo"
   }
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ⭐️ Thank you ⭐️
