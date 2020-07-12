@@ -11,16 +11,16 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const karim = {
-  pronouns: "he" | "his",
+let karim: [String: Any] = [
+  pronouns: "he | his",
   code: [Swift, ObjectiveC, Kotlin, Ruby, Java],
   tools: [XCode, AppCode, Playground, IntellijIDEA, GitKraken, Postman, Docker],
-  techCommunities: {
+  techCommunities: [
     founder: "SwiftyCamp",
     mentor: "SwiftyCamp",
     speaker: "SwiftCairo"
-  }
-}
+  ]
+]
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
