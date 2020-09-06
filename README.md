@@ -1,5 +1,5 @@
 <h2> Hi, I'm Karim Ebrahem!</h2>
-<img align='right' src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
 <p>iOS Software Enginner at <a href="https://www.areebgroup.com/">AreebGroup </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>iOS Software Engineer Mentor at <a href="https://www.facebook.com/SwiftyCamp/">SwiftyCamp</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
