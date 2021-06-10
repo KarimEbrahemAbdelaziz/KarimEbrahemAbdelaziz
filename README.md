@@ -25,16 +25,6 @@ I love sharing my knowledge and experience, contribute to open source projects r
 
 <hr/>
 
-**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
-
-<a href="https://github.com/KarimEbrahemAbdelaziz/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarimEbrahemAbdelaziz&count_private=true&show_icons=true&theme=radical&hide_border=false" />
-</a> 
-<a href="https://github.com/KarimEbrahemAbdelaziz/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimEbrahemAbdelaziz&layout=compact&theme=radical&hide_border=false" />
-</a>
-<hr/>
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
 ⭐️ Thank you ⭐️
